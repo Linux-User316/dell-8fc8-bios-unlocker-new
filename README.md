@@ -18,12 +18,12 @@ Das Skript läuft nativ unter Windows 11/10, Linux (Ubuntu) und macOS. Es benöt
 2. Öffne dein Terminal (CMD/PowerShell unter Windows oder Terminal unter Linux) in diesem Ordner.
 3. Starte das Skript mit dem passenden Befehl für dein Betriebssystem:
    * **Windows:**
-     ```cmd
-     python dell_8fc8_unlocker_eng.py
+     ```
+     python dell_8fc8_unlocker_eng.py Dell_5520.bin
      ```
    * **Linux (Ubuntu) / macOS:**
-     ```bash
-     python3 dell_8fc8_unlocker_eng.py
+     ```
+     python3 dell_8fc8_unlocker_eng.py Dell_5520.bin
      ```
 4. Gib die Modellnummer ein (z.B. `5501`).
 5. Kontrolliere die Zeilen im automatisch geöffneten Editor, schließe das Editor-Fenster und drücke **ENTER** im Terminal, um den Patch anzuwenden.
@@ -53,12 +53,12 @@ Since this is pure Python, it runs natively on Windows 11/10, Linux (Ubuntu), an
 2. Open your command prompt or terminal inside this directory.
 3. Launch the utility using the correct command for your operating system:
    * **Windows:**
-     ```cmd
-     python dell_8fc8_unlocker_eng.py
+     ```
+     python dell_8fc8_unlocker_eng.py Dell_5520.bin
      ```
    * **Linux (Ubuntu) / macOS:**
-     ```bash
-     python3 dell_8fc8_unlocker_eng.py
+     ```
+     python3 dell_8fc8_unlocker_eng.py Dell_5520.bin
      ```
 4. Enter the Dell model number when prompted (e.g., `5501`).
 5. Review the extracted lines in the editor, close the editor window, and press **ENTER** in the terminal to patch the file.
